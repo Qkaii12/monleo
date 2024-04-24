@@ -1,0 +1,3941 @@
+fileFormatVersion: 2
+guid: 188541a93f84c2141895e48f09302b86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ngon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 575
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488d649cf02bad408a9bdac2f01e386
+      internalID: -422760401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 575
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93c2c6c679bbd41822f43aed804597
+      internalID: 1165490973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 575
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce209f882017cb549b67c3a8052983e4
+      internalID: -1772928509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 575
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e467fd4ded3d6944bbed616892790dd
+      internalID: 1484969263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 539
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adab160277dcbf43b0bb4e28504a52b
+      internalID: -1349378677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 538
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8aa1c04474eb4ab5fc70ab2f0e777
+      internalID: -1201686637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 538
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5c800e2547a44fb6ecdca80fcb7bf
+      internalID: 1890686945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 538
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54fdcbd5777d54cb543be73f1691ab
+      internalID: 627928895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 538
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab75a435b9ba14ab4d8d98150663d0
+      internalID: -1801444988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a54d6ddc55854689c5086e0f0e68c
+      internalID: 172501163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 560
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08193774838155b41a22bb1f3a5ef9a5
+      internalID: 1712541062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badaeb7b7ecd22648a185db030d4ee7a
+      internalID: -998440317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 552
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9c5b312ef0574b80dd1ec621735b5
+      internalID: -579308626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 560
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b361aecf700fe44ab25b7652c4735b
+      internalID: 756263754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0962d54990fd9349ad6895e1f720d91
+      internalID: -924296653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 552
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7989f0c97f4d6584490c5b8ba1b2b77b
+      internalID: -1076478142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 552
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb735fcdb4de3a34fbbd3b64e11158e5
+      internalID: 746104522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 552
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd19393ea916a4990fdd59b3841496
+      internalID: 913054714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 552
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c4ee13f591b249ac9e580d2478525
+      internalID: 898264672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 552
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c981f0107670847a17465443e8d77d
+      internalID: -714116873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 552
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31c976efc20db449c1467c5c3fc0f0
+      internalID: -2039148682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23d0a953cec9f4fba6e3c5538f9177
+      internalID: -420775290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d5f3571a8f514494c46b3dfb7937c
+      internalID: -1358124692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 496
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b272f681f266e408e9c1f8746d7274
+      internalID: 1782221033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 506
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb6074396fe43d478187f708700bbf4
+      internalID: 1973544864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 492
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e936b22c9fc90544a4468c97bacf21d
+      internalID: 450941153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 503
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ff130f8f95254a8dd00dd11b0d749
+      internalID: 950993115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 507
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2f328d5fcc73d44b56586d45aa4c3f
+      internalID: -1734530246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 505
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0d42e936ae464b9f30747eb85b097
+      internalID: 603890264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 504
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505df24f256af0449af14d67bae0a2a
+      internalID: 2071317754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 483
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8bc6d6802e684b8f93a9f8bf60fe9
+      internalID: -1251898736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 483
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8acb324d96b704883e974a7cb6f926
+      internalID: 52128268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 486
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ecbe27ec50794e88e33275b2b873b
+      internalID: 204125823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 486
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736867ffd29337841a98220fb170ed22
+      internalID: 530417112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 488
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755466e29461c9b4cba919594734fc8a
+      internalID: -1917752646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 488
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919928d0bfc0b744089b7db6fdf29ace
+      internalID: 1800541361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 488
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386515a092d35d445ba099ecfda14bbd
+      internalID: 1659199864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 480
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909d697053f87c4b8de54300bb38b63
+      internalID: -881074974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_38
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 480
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac0aec2f7a59449a02a09ddba0da31
+      internalID: -166958070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_39
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 457
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c21e9837b652349a8ee6f7181b6a13
+      internalID: -914914471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_40
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 500
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f17cbff6a8724e877e341b22db550
+      internalID: -635098590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_41
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 500
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3311773cddd24da4d47825419177a
+      internalID: -1511626173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 492
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511a2d530b386e64a88ffde4df8fb6c5
+      internalID: -1286740218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 492
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae960fe9718e64d8ea709cd9207f45
+      internalID: -141841035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 459
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041cc5af07d4dd48a9e270eaeb4c72f
+      internalID: -564846691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc09d692a34d746a73de0eee1ea6e4
+      internalID: 1254142877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 492
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc36c4960c6144488a5fc8c08a46f0
+      internalID: -1626789356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 493
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca0d3e4d93c1043800c16dde2518cc
+      internalID: 1862863230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 482
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29cc73be81418b4d9b45e6cbefc5f9b
+      internalID: -801803739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbfa087389ea024a9071bc9c8507020
+      internalID: -393075544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 429
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca44b114b79c54fa928c892abe22bd
+      internalID: -1248618574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 449
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43936da52f5c9448f31fbd23642849
+      internalID: 595372419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11f23893590474189266b3456d8851
+      internalID: -1758697347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_53
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 478
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c850c92d2481040a54316696f7402f
+      internalID: -60728877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_54
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 478
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d05133232972047b0a318755d2d82c
+      internalID: -1208669086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 473
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451386d0470ab114fa6c0fb95f9c5ef7
+      internalID: 506999078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_56
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f3d659e82dce14faabdf7c0095005d
+      internalID: -1898264054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329217c1edcfb8a44837d7dbad73d07e
+      internalID: 1072450967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e67b63ecaee84b83df79674b85302
+      internalID: -1345099392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 429
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2151813c95ef044a4f350718b6f1d1
+      internalID: 873493044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 435
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629b3f25a067104788d1d137d57f105
+      internalID: 1674460039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_61
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 435
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba20b5bd0e37b42a792d43be461a08
+      internalID: 1613852570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_62
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 473
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac5cac16e52d145a4fbbad9e10d12f
+      internalID: -1322535523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 473
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fdad5bb87e59141ad6d00ea6436017
+      internalID: 2036395467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_64
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 473
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168b1736c5595364fbd00e572fd92f45
+      internalID: -1143481176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_65
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 473
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379742251f0a83a4bbc2781e7470cf8d
+      internalID: 1477045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 422
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485dff01d0641e468b0639fe973addc
+      internalID: 1036261593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 419
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815a3787d1aafd4eb9f1799a02e550b
+      internalID: 84290493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 419
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c91bc11e7c9b349a7aca06e2d76661
+      internalID: 276626279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 418
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eea7b43e10ce9419286d3c130f1a6a
+      internalID: -707543299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 423
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a97199a209fda48a2a415e0555df99
+      internalID: 2086305153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 423
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb22885c93c58f4582819e40d00452f
+      internalID: 951648873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_72
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 438
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b375dd26808ba54b8d4e0f40aae1910
+      internalID: -1080618935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_73
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 438
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f709179026d59d348a6fc9a85b6235fc
+      internalID: 104962756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 382
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6068b904f0964e8c18b70fcce4a6a
+      internalID: -1149159262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5cb1b9accfd4c4a82bb9d001a73f53
+      internalID: 1639086427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 381
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70117eec194c4d94e971b8b884b1cb6a
+      internalID: -1008140316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd243f5895509344826c263f1bd4330
+      internalID: -1190398145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 382
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000982b215cfb24db26fc47acde61e0
+      internalID: -1866372702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa39a6b221e4c42961478e37c36cfa
+      internalID: -594128709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_80
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 382
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c758b8b307dcd842a0945bd536a64a9
+      internalID: -129531637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_81
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 379
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa96574cd33bd4aacaf9a68b4e70e0
+      internalID: 919791620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_82
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 383
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2060f03917a1458f181f15b955c08
+      internalID: 1724595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_83
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 395
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425ec62e62220b4e9dcd87cbc0aac82
+      internalID: -1761521181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 395
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022dde1f08bfb06489d9143e2da9f688
+      internalID: 1747101706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 349
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a906a88f265be04ea939de54a264350
+      internalID: 540888437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 349
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4522d2d8d7bd88b47b8167c52c081e7c
+      internalID: 1512264808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_87
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 350
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d688c6fc82ee3499a9518356933a27
+      internalID: -414580923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_88
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 379
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7011011f95eb149afd206e47c3d24a
+      internalID: 22694739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_89
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d213d559da00a428b999d8649e9d86
+      internalID: 1905480106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd40cf6190bc248b75688090691c0a
+      internalID: 1809589626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81e349ddbb3e649a5ea5163dd29427
+      internalID: -1420053196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 370
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc42fdcf2259b448971ac5546bb268
+      internalID: -625931634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_93
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 367
+        width: 96
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462745f6404a81e47b7a4015c5d8ddeb
+      internalID: -155126553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_94
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf1da6059a8164f9b51c870f846c74
+      internalID: 286090348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 338
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8641cc9d27a9b4ca0f8794acc3712b
+      internalID: -640621374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 338
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f371632a0f6ee64eaf4122a79a3a3ac
+      internalID: 1633524323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 356
+        width: 96
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec396cea88d763848baa29b756ca7d63
+      internalID: -367855709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_98
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 345
+        width: 96
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94773addc641245b89c7ab1865b255
+      internalID: 132615928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3723e3364bc3314f8c816c33579f5e5
+      internalID: 1371255985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a598cf5ee33e54418c0ea58a35df62d
+      internalID: -117562724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04469a26796f6a4498cff51d7dde9b8e
+      internalID: -773643859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_102
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89f4e0d1241364fa39764fc56c021d
+      internalID: 1126813524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_103
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d145010e88fb39c4db64f78e11831b2d
+      internalID: -91680111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e576aa53514c8448dc9e7d7f305d94
+      internalID: -1327803202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8ae25d8946414da480b090e781324
+      internalID: -1241322804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_106
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71a1fc601daba4891d6ba77f849473
+      internalID: -395621254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd0f70f080c05e43929f5b365dc6abc
+      internalID: -2102455774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 305
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052507ce63d912449fd2ed6cdd123ec
+      internalID: -1924422510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_109
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50fe0da0d515446b1d5a324a53858c
+      internalID: 156586885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_110
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 305
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1ea6b3b2d8ce409f0eb2f97468f8f
+      internalID: 421320805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 302
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98d0878ab3cd3499b36a6dfa37b2ec
+      internalID: 1873645809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f63593dcbb8084e8a39340e88ab478
+      internalID: -1247975467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9396298a066144b64f257e0b53885
+      internalID: -2058432172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2225fd2244094fd46a919ba4e488cca3
+      internalID: -1260611314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_115
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316d3f1c1ad2f5418fc940391bacba5
+      internalID: -1727845810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d22c96621bd8a4bb956969f71031f9
+      internalID: 1391350537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361f7533145b5d40a3fa56a279c2578
+      internalID: 1830336394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9586ff286a5c6c24e9fd70d87afb0659
+      internalID: 1762598306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba130ecabdcf5ee42b92ad1b0d6b0b59
+      internalID: -1885029874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_120
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 272
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb909459345d3834199a7a2e35aae40e
+      internalID: 2012271998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_121
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 275
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47750295e4190942b60fed3bfb1add2
+      internalID: -1542732656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_122
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 274
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff59b0d9d2dda4e977aa8222aa749b
+      internalID: 2099310939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5acabdca7d5c24188d2b0e20a0855b
+      internalID: 2093367996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa4a2faa3186a4795daa078ccd5c7c
+      internalID: 1842562229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_125
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c0842c72e51247b405fc7f7e62edc
+      internalID: 865646019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_126
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6301a9c2bab65d94ca5af64dfac9914b
+      internalID: 792918838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_127
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636bfd064a235d48b63208896c5c1f7
+      internalID: 1797934508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_128
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357256f1715e75345b67301e3b3235ef
+      internalID: -1698403166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_129
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a9d7383ac1e345ab1f6ed12f0cd48
+      internalID: -773690106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 239
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c543ab98747e14e8f98b968171697d
+      internalID: 1422680118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_131
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 239
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4106ae2274808194485d42ceaea06aae
+      internalID: -1415143827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_132
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d78992007079d40af5e0be31bb1fdc
+      internalID: -304586533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_133
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 239
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65b047f76e33747bdce1345e592ad0
+      internalID: -980234937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_134
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 264
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0b8c02391b48499cdfdec9600fdfa
+      internalID: 80382880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358eda898e9cca6458ab7b346ba60c7f
+      internalID: -1779959960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b58fe4783b555346b4faad8c6121038
+      internalID: -1395806207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_137
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0704984fadb24742b1f2f5743fe9418
+      internalID: -806631560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca3c68ff7078a49822ccbbd9a0e237
+      internalID: 1022888073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22446f852d3baac409d99eb7c8e0890e
+      internalID: -654816908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_140
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a87005a881aa429861eafc84eacfe
+      internalID: 1728945947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_141
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605bfd82ecb572478434f34448cd21b
+      internalID: -509700961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_142
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70376f0d756a52f49824e4bd14a3bfc6
+      internalID: 1757912912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 139
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e634d6f5a73548927ab60a1952afc
+      internalID: 1926874802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 171
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce673b20ab03543b059c132bd40c6f
+      internalID: -1957218438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7abcedf2efc74693008f4d5ff8225
+      internalID: -294464089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_146
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b54f5d7065b84980534be44508005
+      internalID: 1319775394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 163
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0cf931b541e04bad29ddc77569dba
+      internalID: 895201802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_148
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 162
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ad68e808c1bb41a19fbd51885cc31
+      internalID: -433984101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_149
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 107
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e0770e58e6db649bfccab62f86cb47
+      internalID: -472914088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85cfd02241c2e4086eba96fd9d2e71
+      internalID: 1986283105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 133
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d2f210198363488f9530b6e462a96
+      internalID: -53143989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_152
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 107
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efae66dfe9995b4dacd4ad545c76cca
+      internalID: -912358923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_153
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 107
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd0a929b6ee5a4091b790002a15082
+      internalID: -1275286098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 255
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa0ceba6e7fb7428a271b5a1b37c83
+      internalID: 728624655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 74
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff99c9c7c0414b42a2fa225aa4b2085
+      internalID: 2005342462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ea3561caac43469f7070d147b40c6
+      internalID: -1725925954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_157
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 74
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97431379a943a564a87bed5626d91cb2
+      internalID: 1904938503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_158
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 74
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ff8be6c7ef1f459170ff67892029c
+      internalID: -240686711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_159
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 74
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd85138b3121624b907bb6a578927d8
+      internalID: -883478448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_160
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 74
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3ca777ac804f4495b8c6103bd5e30
+      internalID: 1778959549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 42
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af64b3eb4b05c0a4ca2e48b4bbf89bc1
+      internalID: -1726313023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_162
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 42
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b9970928b7c13439bb915dbaeea011
+      internalID: -2005085593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_163
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 42
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240dfb679543c443b39e1146f4bd3c5
+      internalID: 1881168410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_164
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 48
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45619f284a56b54cb8f848a73b4342d
+      internalID: 459690597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_165
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1531bf7a0b0e444088b7c5dfa49e5e4
+      internalID: -1189720146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 42
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b8faceae29454e80c39fab5ed9db5
+      internalID: 679526505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_167
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f173e1235fd84d8aeab5ae0b0c96e
+      internalID: 914684308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_168
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31576dde08d14c4db4b10cfb3a4361e
+      internalID: -1494522971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_169
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc854c54235c74a99457f905a9be87
+      internalID: -90882851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_170
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9281d09fe3a924fb050dfccbfd54a4
+      internalID: -892584425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_171
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97bc939ebe6284da0a4aa8a6eade87
+      internalID: 461168916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ngon_172
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd39e0dbf5a9b74e93ad07a1becc352
+      internalID: -518094892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ngon_0: -422760401
+      ngon_1: 1165490973
+      ngon_10: 1712541062
+      ngon_100: -117562724
+      ngon_101: -773643859
+      ngon_102: 1126813524
+      ngon_103: -91680111
+      ngon_104: -1327803202
+      ngon_105: -1241322804
+      ngon_106: -395621254
+      ngon_107: -2102455774
+      ngon_108: -1924422510
+      ngon_109: 156586885
+      ngon_11: -998440317
+      ngon_110: 421320805
+      ngon_111: 1873645809
+      ngon_112: -1247975467
+      ngon_113: -2058432172
+      ngon_114: -1260611314
+      ngon_115: -1727845810
+      ngon_116: 1391350537
+      ngon_117: 1830336394
+      ngon_118: 1762598306
+      ngon_119: -1885029874
+      ngon_12: -579308626
+      ngon_120: 2012271998
+      ngon_121: -1542732656
+      ngon_122: 2099310939
+      ngon_123: 2093367996
+      ngon_124: 1842562229
+      ngon_125: 865646019
+      ngon_126: 792918838
+      ngon_127: 1797934508
+      ngon_128: -1698403166
+      ngon_129: -773690106
+      ngon_13: 756263754
+      ngon_130: 1422680118
+      ngon_131: -1415143827
+      ngon_132: -304586533
+      ngon_133: -980234937
+      ngon_134: 80382880
+      ngon_135: -1779959960
+      ngon_136: -1395806207
+      ngon_137: -806631560
+      ngon_138: 1022888073
+      ngon_139: -654816908
+      ngon_14: -924296653
+      ngon_140: 1728945947
+      ngon_141: -509700961
+      ngon_142: 1757912912
+      ngon_143: 1926874802
+      ngon_144: -1957218438
+      ngon_145: -294464089
+      ngon_146: 1319775394
+      ngon_147: 895201802
+      ngon_148: -433984101
+      ngon_149: -472914088
+      ngon_15: -1076478142
+      ngon_150: 1986283105
+      ngon_151: -53143989
+      ngon_152: -912358923
+      ngon_153: -1275286098
+      ngon_154: 728624655
+      ngon_155: 2005342462
+      ngon_156: -1725925954
+      ngon_157: 1904938503
+      ngon_158: -240686711
+      ngon_159: -883478448
+      ngon_16: 746104522
+      ngon_160: 1778959549
+      ngon_161: -1726313023
+      ngon_162: -2005085593
+      ngon_163: 1881168410
+      ngon_164: 459690597
+      ngon_165: -1189720146
+      ngon_166: 679526505
+      ngon_167: 914684308
+      ngon_168: -1494522971
+      ngon_169: -90882851
+      ngon_17: 913054714
+      ngon_170: -892584425
+      ngon_171: 461168916
+      ngon_172: -518094892
+      ngon_18: 898264672
+      ngon_19: -714116873
+      ngon_2: -1772928509
+      ngon_20: -2039148682
+      ngon_21: -420775290
+      ngon_22: -1358124692
+      ngon_23: 1782221033
+      ngon_24: 1973544864
+      ngon_25: 450941153
+      ngon_26: 950993115
+      ngon_27: -1734530246
+      ngon_28: 603890264
+      ngon_29: 2071317754
+      ngon_3: 1484969263
+      ngon_30: -1251898736
+      ngon_31: 52128268
+      ngon_32: 204125823
+      ngon_33: 530417112
+      ngon_34: -1917752646
+      ngon_35: 1800541361
+      ngon_36: 1659199864
+      ngon_37: -881074974
+      ngon_38: -166958070
+      ngon_39: -914914471
+      ngon_4: -1349378677
+      ngon_40: -635098590
+      ngon_41: -1511626173
+      ngon_42: -1286740218
+      ngon_43: -141841035
+      ngon_44: -564846691
+      ngon_45: 1254142877
+      ngon_46: -1626789356
+      ngon_47: 1862863230
+      ngon_48: -801803739
+      ngon_49: -393075544
+      ngon_5: -1201686637
+      ngon_50: -1248618574
+      ngon_51: 595372419
+      ngon_52: -1758697347
+      ngon_53: -60728877
+      ngon_54: -1208669086
+      ngon_55: 506999078
+      ngon_56: -1898264054
+      ngon_57: 1072450967
+      ngon_58: -1345099392
+      ngon_59: 873493044
+      ngon_6: 1890686945
+      ngon_60: 1674460039
+      ngon_61: 1613852570
+      ngon_62: -1322535523
+      ngon_63: 2036395467
+      ngon_64: -1143481176
+      ngon_65: 1477045526
+      ngon_66: 1036261593
+      ngon_67: 84290493
+      ngon_68: 276626279
+      ngon_69: -707543299
+      ngon_7: 627928895
+      ngon_70: 2086305153
+      ngon_71: 951648873
+      ngon_72: -1080618935
+      ngon_73: 104962756
+      ngon_74: -1149159262
+      ngon_75: 1639086427
+      ngon_76: -1008140316
+      ngon_77: -1190398145
+      ngon_78: -1866372702
+      ngon_79: -594128709
+      ngon_8: -1801444988
+      ngon_80: -129531637
+      ngon_81: 919791620
+      ngon_82: 1724595600
+      ngon_83: -1761521181
+      ngon_84: 1747101706
+      ngon_85: 540888437
+      ngon_86: 1512264808
+      ngon_87: -414580923
+      ngon_88: 22694739
+      ngon_89: 1905480106
+      ngon_9: 172501163
+      ngon_90: 1809589626
+      ngon_91: -1420053196
+      ngon_92: -625931634
+      ngon_93: -155126553
+      ngon_94: 286090348
+      ngon_95: -640621374
+      ngon_96: 1633524323
+      ngon_97: -367855709
+      ngon_98: 132615928
+      ngon_99: 1371255985
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
