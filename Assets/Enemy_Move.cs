@@ -10,6 +10,7 @@ public class Enemy_Move : MonoBehaviour
     private Animator animator;
     private Rigidbody2D rb;
     public float speed;
+    public bool isKiss;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -21,21 +22,21 @@ public class Enemy_Move : MonoBehaviour
     void Update()
     {
         Vector2 point = currentPoint.position - transform.position;
-        if(currentPoint == pointB.transform)
+        if (currentPoint == pointB.transform)
         {
-            rb.velocity = new Vector2(speed, 0);
+            rb.velocity = new Vector2(speed,0);
         }
-        else
+        if (currentPoint == pointA.transform)
         {
             rb.velocity = new Vector2(-speed, 0);
         }
 
-        if(Vector2.Distance(transform.position, currentPoint.position) < 0.5f && currentPoint == pointB.transform)
+        if (Vector2.Distance(transform.position, currentPoint.position) < 1f && currentPoint == pointB.transform || isKiss == true)
         {
             flip();
             currentPoint = pointA.transform;
         }
-        if (Vector2.Distance(transform.position, currentPoint.position) < 0.5f && currentPoint == pointA.transform)
+        if (Vector2.Distance(transform.position, currentPoint.position) < 1f && currentPoint == pointA.transform || isKiss == true)
         {
             flip();
             currentPoint = pointB.transform;
@@ -43,9 +44,16 @@ public class Enemy_Move : MonoBehaviour
     }
     private void flip()
     {
-        Vector3 localScale = transform.localScale;
+        Vector2 localScale = transform.localScale;
         localScale.x *= -1;
-        transform.localScale = localScale;
+        transform.localScale = localScale; 
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Enemy"))
+        {
+            isKiss = true;
+        }
     }
     private void OnDrawGizmos()
     {

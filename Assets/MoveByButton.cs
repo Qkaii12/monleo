@@ -7,8 +7,10 @@ public class MoveByButton : MonoBehaviour
     private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     private const string IsRunningParaName = "walk";
-    private bool moveLeft;
-    private bool moveRight;
+    public bool moveLeft;
+    public bool moveRight;
+    public bool stopGroundLeft;
+    public bool stopGroundRight;
     private float horizontalMove;
     public float speed = 5;
     private bool facingRight = true;
@@ -22,12 +24,14 @@ public class MoveByButton : MonoBehaviour
 
     public void PointerDownLeft()
     {
-        moveLeft = true;
+        if (stopGroundLeft == false)
+            moveLeft = true;
         FlipCharacter(false);
     }
     public void PointerDownRight()
     {
-        moveRight = true;
+        if (stopGroundRight == false)
+            moveRight = true;
         FlipCharacter(true);
     }
     public void PointerUpRight()
@@ -42,6 +46,30 @@ public class MoveByButton : MonoBehaviour
     void Update()
     {
         MovePlayer();
+    }
+    private void OnTriggerEnter2D(Collider2D Player)
+    {
+        if (Player.CompareTag("StopGround"))
+        {
+            moveLeft = false;
+            stopGroundLeft = true;
+        }
+        if (Player.CompareTag("StopGroundRight"))
+        {
+            moveRight = false;
+            stopGroundRight = true;
+        }
+    }
+    private void OnTriggerExit2D(Collider2D Player)
+    {
+        if (Player.CompareTag("StopGround"))
+        {
+            stopGroundLeft = false;
+        }
+        if (Player.CompareTag("StopGroundRight"))
+        {
+            stopGroundRight = false;
+        }
     }
 
     private void MovePlayer()
