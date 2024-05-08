@@ -54,6 +54,8 @@ public class Enemy_Move : MonoBehaviour
         {
             isKiss = true;
         }
+
+        
     }
     private void OnDrawGizmos()
     {
