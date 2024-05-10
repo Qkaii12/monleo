@@ -23,6 +23,7 @@ public class PlayerDeath : MonoBehaviour
     {
         // Đây là nơi bạn có thể thực hiện các hành động khi người chơi chết,
         // như hiển thị thông báo, hoặc thực hiện các animation, âm thanh, v.v.
+        
         animator.SetBool(IsDeathParaName, true);
 
     
