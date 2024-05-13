@@ -3,23 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Die_bar : MonoBehaviour
+public class Pause_bar : MonoBehaviour
 {
     [SerializeField] private string sceneHome;
     [SerializeField] private string sceneSpawn;
+    [SerializeField] private string Continue;
     [SerializeField] private GameObject dieBar;
-    [SerializeField] private PlayerDeath death;
     [SerializeField] private Animator animator;
 
     [SerializeField] private bool home;
     [SerializeField] private bool spawn;
+    [SerializeField] private bool ConTinue;
     private void EnableDieBar()
     {
-        if (death.isDieAnim && ! animator.GetCurrentAnimatorStateInfo(0).IsName("DieAnimation"))
-        {
-            dieBar.SetActive(true);
-            Time.timeScale = 0;
-        }
+        //if ()
+        //{
+        //    dieBar.SetActive(true);
+        //    Time.timeScale = 0;
+        //}
     }
     private void ClickButton()
     {
@@ -45,7 +46,5 @@ public class Die_bar : MonoBehaviour
 
     private void Update()
     {
-        EnableDieBar();
-        ClickButton();
     }
 }

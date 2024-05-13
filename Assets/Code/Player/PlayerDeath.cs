@@ -2,12 +2,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerDeath : MonoBehaviour
 {
     private const string isDieParaname = "die";
     [SerializeField] private Animator animator;
     public bool isDieAnim = false;
+    private object GameOverScreen;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -54,7 +57,7 @@ public class PlayerDeath : MonoBehaviour
             Death();
             Debug.Log("Chết xong!");
             // Ví dụ: Hiển thị màn hình Game Over
-            // GameOverScreen.SetActive(true);
+            //object p = GameOverScreen.SetActive(true);
         }
     }
 
