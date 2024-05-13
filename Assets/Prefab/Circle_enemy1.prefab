@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 757788513851305426}
   - component: {fileID: 757788513851305430}
   - component: {fileID: 757788513851305429}
+  - component: {fileID: -4627687895189384078}
   m_Layer: 6
   m_Name: Circle_enemy1
   m_TagString: Enemy
@@ -172,3 +173,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-4627687895189384078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823883669563402087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db86e1c46b4e36247adb48a9e24a4065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDie: 0

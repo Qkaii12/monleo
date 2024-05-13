@@ -186,7 +186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15034948}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15999961, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.16160727, y: -0.13, z: -10}
   m_LocalScale: {x: 0.99116, y: 1.0035496, z: 0.99116}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2063,6 +2063,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &326750426 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 823883669563402087, guid: c552be4a79f416745ab085f9a6c02a7b, type: 3}
+  m_PrefabInstance: {fileID: 757788513438237091}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &341465455
 GameObject:
   m_ObjectHideFlags: 0
@@ -2781,7 +2786,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15999961, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.16160727, y: -0.13, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3894,6 +3899,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &679609709
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679609710}
+  m_Layer: 0
+  m_Name: PlayerDick
+  m_TagString: PlayerDick
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679609710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679609709}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.014, y: -0.175, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 901032546}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &707103814 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
@@ -5206,6 +5242,19 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7025211203413167850, guid: c552be4a79f416745ab085f9a6c02a7b, type: 3}
   m_PrefabInstance: {fileID: 757788513438237091}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &950135930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326750426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db86e1c46b4e36247adb48a9e24a4065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDie: 0
 --- !u!1 &966861795
 GameObject:
   m_ObjectHideFlags: 0
@@ -11631,7 +11680,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: -4627687895189384078, guid: c552be4a79f416745ab085f9a6c02a7b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: c552be4a79f416745ab085f9a6c02a7b, type: 3}
 --- !u!1001 &1615880427835912851
 PrefabInstance:

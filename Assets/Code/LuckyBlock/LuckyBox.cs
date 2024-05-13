@@ -22,7 +22,7 @@ public class LuckyBox : MonoBehaviour
     {
         animator.SetTrigger(isTouch);
         GetComponent<BoxCollider2D>().enabled = true;
-        GetComponent<CircleCollider2D>().enabled = false;s
+        GetComponent<CircleCollider2D>().enabled = false;
         Block = true;
     }
     private void Update()
