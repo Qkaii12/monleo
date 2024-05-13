@@ -186,7 +186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15034948}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15999961, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17019916, y: -0.13, z: -10}
   m_LocalScale: {x: 0.99116, y: 1.0035496, z: 0.99116}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2680,7 +2680,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15999961, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17019916, y: -0.13, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3821,8 +3821,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 725916428}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.8606687, y: -0.25697544, z: 0.039773554}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.8606687, y: -0.25697544, z: 0.03977394}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4988,6 +4988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 901032551}
+  isDieAnim: 0
 --- !u!1 &916268206
 GameObject:
   m_ObjectHideFlags: 0
@@ -11717,6 +11718,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
       propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+      propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4611702402431851771, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
