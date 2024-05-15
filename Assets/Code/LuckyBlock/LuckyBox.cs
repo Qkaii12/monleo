@@ -1,35 +1,31 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class LuckyBox : MonoBehaviour
 {
-    [SerializeField] private Animator animator;
-    private const string isTouch = "block";
-    public bool Block;
-    void Start()
-    {
-        animator = GetComponent<Animator>();
-    }
+    public Sprite emtyBoxSprite;
+    public GameObject[] items;
+    private bool isUsed = false;
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if(!isUsed && collision.collider.CompareTag("Player"))
         {
-            Box();
+            SpawnItem();
+            GetComponent<SpriteRenderer>().sprite = emtyBoxSprite;
+            isUsed = true;
         }
     }
-    private void Box()
+
+    private void SpawnItem()
     {
-        animator.SetTrigger(isTouch);
-        GetComponent<BoxCollider2D>().enabled = true;
-        GetComponent<CircleCollider2D>().enabled = false;
-        Block = true;
-    }
-    private void Update()
-    {
-        if (Block == true)
+        if(items.Length > 0)
         {
-            Box();
+            int randomIndex = Random.Range(0, items.Length);
+            GameObject item = Instantiate(items[randomIndex], transform.position + Vector3.up, Quaternion.identity);
         }
     }
 }

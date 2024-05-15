@@ -9,6 +9,7 @@ TagManager:
   - background
   - MonsterHead
   - PlayerHead
+  - Coin
   layers:
   - Default
   - TransparentFX
