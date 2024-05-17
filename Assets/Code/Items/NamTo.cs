@@ -4,15 +4,23 @@ using UnityEngine;
 
 public class NamTo : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float speed = 2f;
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        transform.Translate(Vector2.right * speed * Time.deltaTime);
+    }
+    private void OnTriggerEnter2D(Collider2D collider2D)
+    {
+        if (collider2D.CompareTag("Player"))
+        {
+            PlayerContactItem player = collider2D.GetComponent<PlayerContactItem>();
+            if(player != null)
+            {
+                player.Grow();
+            }
+
+            Destroy(gameObject);
+        }
     }
 }

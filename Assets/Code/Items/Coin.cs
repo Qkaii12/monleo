@@ -5,11 +5,17 @@ using UnityEngine;
 public class Coin : MonoBehaviour
 {
     public int value = 1;
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collider2D)
     {
-        if (other.CompareTag("Player"))
+        if (collider2D.CompareTag("Player"))
         {
-            
+            PlayerContactItem player = collider2D.GetComponent<PlayerContactItem>();
+            if(player != null)
+            {
+                player.AddScore(value);
+            }
+
+            Destroy(gameObject);
         }
     }
 }
