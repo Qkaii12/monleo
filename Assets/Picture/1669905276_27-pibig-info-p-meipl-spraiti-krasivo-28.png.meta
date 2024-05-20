@@ -1,0 +1,3533 @@
+fileFormatVersion: 2
+guid: 157b31f6305b8c140a5ba7503c42d366
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 975
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0a974260c43e4cb53a1d56c7cb36c
+      internalID: -1974990059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 975
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95987bbb0f62d664c9aa6969eb91209b
+      internalID: 847794871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1008
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fcbc2858c8ca4c8c9caee44f2e081
+      internalID: -857840670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 975
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a89dc4c0847d4582a68114d83520b
+      internalID: 485999550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 981
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0c6f0aad1a3846b551a4ed8287681
+      internalID: -2140973185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 975
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e069b05bc48df04093b90a50b8340bf
+      internalID: 273143418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 959
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5469464f721ba549aa651e3c248363b
+      internalID: 870742103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 975
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdacd8cec39e5e42b9874731d46ec74
+      internalID: -695282405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67e8e4e0465de4085f822890f5c9f4
+      internalID: 394070946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 975
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8317b1c9e871240b8eb7dd491a9c58
+      internalID: -964095915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 975
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf356c43807cd948b3ed8c33fddf549
+      internalID: -1892826869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 975
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f1d7e7a2e09c4aa8497c3f8180fec
+      internalID: 307136186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 981
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd3785f61bc65c44a2ec28c1a28df5a
+      internalID: 1988577117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 975
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb1643dbe7f63c4b8b096a2e31715a9
+      internalID: -1641578670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f2db7ee074574586de083d1211947
+      internalID: -607602280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2aec395f2d9ec4db9c4621ea9c4b5a
+      internalID: -72990932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 975
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b45de77e459940925f87a729759a7
+      internalID: 2104696629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 975
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fdbfa4ee827d74dad4533a17b69278
+      internalID: -780031618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 858
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73da853eb148e140b5878fcca6ec539
+      internalID: 1191999651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 858
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a21254bbcf34449b64ccf62b5172d0
+      internalID: -257128674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 858
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587821b61c800b64c8b9ad3ced84b44e
+      internalID: -1653009854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 858
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5ede30406d044db91457f7faeb31e
+      internalID: 1782347557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 858
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf454189d0817f459c9ee7d08037c67
+      internalID: -1867148595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 858
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd2c79e89f935d48910a8518054c0b4
+      internalID: 1358846607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 868
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a0e921b0502348a4e1289a624409c
+      internalID: -1606774308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 858
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2798ab238797546aafa87271796f3a
+      internalID: 213909839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 858
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb91d98143bd849a42cebdab541d4e
+      internalID: -563768936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_27
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 858
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3235ed5670ab7f43af1390868152aa0
+      internalID: -358246852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_28
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 858
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05814424e4a46a4a8f992d1dd6f2eb2
+      internalID: 812482953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_29
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 858
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59e441e11f8154da0aaa0389a9b887
+      internalID: -5479477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_30
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 858
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a7b0e170b605408aed790fa199648
+      internalID: 860771853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 858
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee04e61dca1a14585fcf3ec1a4ed05
+      internalID: 1392075247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 804
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd2f9be9cf21594a84ce8e994b42914
+      internalID: 1786320081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 804
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9d60498f69ec43a346d5d4abe5880
+      internalID: -546552171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 836
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc945886f11750e4f86439c2ab26bc88
+      internalID: -1207368535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 804
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752bd9456b231e47a659b3960ac707b
+      internalID: 1096111823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 804
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb23901992257cb4fbdecc0adbb01b48
+      internalID: -1582032076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 804
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e15af113f8f541881e424ae1881e7
+      internalID: 834398914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 804
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1241121b0baea4c9f3de204435ed57
+      internalID: -460999409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 804
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b01d8f1f9b0e49bc15716a143ed8c
+      internalID: -1541589598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_40
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 836
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fbfca52cf8de040a388ed46e48b01c
+      internalID: 1501450951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 804
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4928f7db6b63ab048bc74e43081c9de2
+      internalID: 1238102538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 804
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f93eb8498bf5441bb5d64259dfdcc2
+      internalID: -1034537592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 804
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0ed3fc733f61468b977313d59f364
+      internalID: -1712585126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 804
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd5a4b506a02249aa1ce6bf0254139
+      internalID: 262145178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 804
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6158a6f6c71294d88e70d8d6c6c8ee
+      internalID: 2114110235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 804
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d83dd11ded14448cc7e89b2f9798a
+      internalID: -386154872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 804
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823bf0deafbe1ed4db3dc76ee845d43a
+      internalID: 270606725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 804
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5cb2963153eed47b54d8a0a164fa63
+      internalID: 262730618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_49
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 804
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f656b4de6d654c04ca2adad219fd5540
+      internalID: 752023464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 804
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd9046566e01a3479df1b393fd74dc3
+      internalID: 1285818844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 686
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31eb4c9e2c39db4fb654aaabfeb1dc4
+      internalID: -301613556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 686
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a7d5343a6b1f45b1912900c298e5e
+      internalID: -1335648219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 686
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70f2ad338a7044a8ffddce0a4669b0
+      internalID: -2033527252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 686
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d7b01a1a81dbf44a1317f18a9b7c09
+      internalID: 417759534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 686
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83b0deca737a547ba253c11ee96e21
+      internalID: 444713157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 686
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3ced70f126e844a38f0ab37773685
+      internalID: -1548122009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_57
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 686
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84f13edb91d8b4f84a324791f057c0
+      internalID: -794828023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_58
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 686
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd24a38bbb7ecee4cbdfe0a9d7aec935
+      internalID: 1800617781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_59
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 686
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a271710da325ba429c05adcb053cb69
+      internalID: -2134072579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_60
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 686
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc32456757823c458abe75a7114501a
+      internalID: 1165849878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_61
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 686
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1453da214d61438eb029ee78606bf
+      internalID: -1015409865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_62
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 686
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af653734252a7c341ac49444397c30b1
+      internalID: -966580514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_63
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 686
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cea56166519284b98723cabac50bb0
+      internalID: 384775608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 686
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad119a2fd96d24987d0225d06d548e
+      internalID: -393181053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 632
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643f242d9ad25f429873c749c81b1ac
+      internalID: -1550747539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 665
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd3f667b9636f43bb8593f768f04ba
+      internalID: 724413215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 632
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fd65b526b3544fbc75c706f35ca9d
+      internalID: -2132820606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 632
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8586f51af66c449ee4394300ad242
+      internalID: 823628252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c0034855b3f244945b349ae286fc1
+      internalID: -654111923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90060ebec0115c342853c160583f102f
+      internalID: 268776062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 632
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49203c095e788274f98f15d812a53dd1
+      internalID: 626298731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 632
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f798e509327ce84d8df74c002b3f339
+      internalID: -42353102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 632
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536599a40dc526459dc447b5376db2c
+      internalID: 137301430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_74
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9aa36fc5efc649942dacec0546efe
+      internalID: 1067868761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418186d93e14ed24eb33b9a6fd59eee4
+      internalID: 564595870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 632
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f56e86fd8a9ed4ab5593d330220097
+      internalID: -362540570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 648
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ade8b0425bdf44b547984cfb7e638
+      internalID: -528395814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_78
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 638
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761582abfd2434a41b5375d1380f3428
+      internalID: -1015524510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_79
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 627
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3fafc2e501b7944990256d3a99670a
+      internalID: 1669487353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_80
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 632
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4630a1255d3d44c81e2aa43c6db253
+      internalID: -74832000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 632
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aefa7135a19fc4a9fb92c73e906a27
+      internalID: -50538596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_82
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 515
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c356d7520a6e64a82b08c9b927336c
+      internalID: -1137638204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 515
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2303f907d808844a4f1527d2466dd7
+      internalID: 384792727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 515
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e3a8d3ed7f8e448747be6072c5a7b
+      internalID: -1014957094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_85
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 515
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8aa47a6b4ada440958f84891d125ad
+      internalID: 1072365692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 461
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08267019c19b22245897426e2526e5b6
+      internalID: -1173215353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 461
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf339da0ad1524ba84f8054f9ed9ea
+      internalID: 2001227372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3316fee9001de147a94867af17d64f8
+      internalID: -2099454869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_89
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 493
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611c4672d291534c8654293a9785ca4
+      internalID: -646112676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_90
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 461
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03830c2675f724495e314f6924d408
+      internalID: -786058763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536518a9a0d24ff4492d4c0c210a031c
+      internalID: 303766141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf1831729b40f47ad1321940b52f4c
+      internalID: -1254236525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_93
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 461
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1b989ac52a8b4d9f4dda00b0d587f
+      internalID: 40074595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_94
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 461
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c6c21348c6114b91e81c2a77e3ddd
+      internalID: -393926321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 466
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80a35f603dc2e4d80fe429a165d882
+      internalID: -245702130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_96
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 461
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f80678c3f326e34d9277ed8fba6c1c2
+      internalID: 613339149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_97
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 445
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b8f6826bc199d48982983da4fdab86
+      internalID: 603345334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_98
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 461
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18636e3348f322045aceaf46b046e516
+      internalID: -1663535205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4cf42a0df91142ab43e85afff1698
+      internalID: -1985514966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_100
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d4330a7e18ce47bd0ec13b6a03f47
+      internalID: -1222392709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_101
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 445
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e404e753ff0ed418907c33fc614627
+      internalID: 1992112161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_102
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164b2497c7080ce4581d6ef38b6e0df1
+      internalID: 461758784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_103
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 461
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204a39ee5a065814b8a1965c3721d14d
+      internalID: 551280683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_104
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0abf0e6cd02f6249a0d2f3bc5a637a9
+      internalID: -1342711917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_105
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 461
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001dc11576bbc8448b5d4a0a8eff4ea4
+      internalID: 1226048335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_106
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 461
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fc28e91923e944b2e070eea722da0
+      internalID: -1634881538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_107
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 461
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b500b81be134734d91913215b3b630d
+      internalID: -1281751270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 343
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0a791eaedfae469ecc2e513767489
+      internalID: -1523114161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 343
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e78e4c98099941939f38dd1d5bbea
+      internalID: -292416052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 343
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5dc11914fcbc240af38b7741e3b79e
+      internalID: 1708155582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_111
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 343
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c49801b90d014ea4f34f695216cf8
+      internalID: 1430792602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_112
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 343
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fb342a8659114f9778b2dd8f741a1
+      internalID: -1953688136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_113
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 343
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460c5fd9c08d3a14fbd58f7f98c3ea9c
+      internalID: 269750994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_114
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 343
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda8866faac8574893bafd629c69eea
+      internalID: -1171398568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 284
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f1e67b22d0f542a57d65aa2d5025d
+      internalID: 2112475713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_116
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 316
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018f755dcd9eab438e37a870126be33
+      internalID: 1512833564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_117
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 284
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5776f06a64449469889a12bf4e2fed
+      internalID: -638202012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_118
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 284
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f279cd4eda176024f9a4665ae4d19d58
+      internalID: 1591314331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_119
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 284
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fff7ad151543240b18ed69e3f4f364
+      internalID: -203839210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_120
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 311
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de37d04582fbb0448d6ebc32a1b96a3
+      internalID: 19993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_121
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 284
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432c499ad5a48448aeaad6b2bc0d5b5
+      internalID: 1781423232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ebd9e3c32c8474ab6d6511a700ad6c
+      internalID: -364152485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb641b795db27c45989ff6b12c8d7d9
+      internalID: 1311613726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_124
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 284
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcccaae841be3048985eeb495114ce9
+      internalID: -34974400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_125
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 284
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d126517721d6419a4f5be57109cf4
+      internalID: 1047976772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 284
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050962f960a2644397832fbda223ffc
+      internalID: 1558761965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_127
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bd3bd6193b7c4d919a9338114a575
+      internalID: -1401046632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_128
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d04cd6a967bd43ad83ae9566d0919
+      internalID: -21024836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_129
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721e00fdf39c8240a20cbdb7ecb122c
+      internalID: -1092394247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_130
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e0ff21f08392444858d78212f2eeb6
+      internalID: 1453408137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_131
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9fcb17c2a4da34cbaa55d24c1c0739
+      internalID: 1700436512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 172
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea567b27cb3aab04ba805510625d965f
+      internalID: -2100793965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 172
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859efe3873fdca4e82b587ed4cda0a3
+      internalID: -964458974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_134
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c808d8293149418074e21b50149ca
+      internalID: 833141211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 118
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b87af4baa65e4aa019eb076205d46
+      internalID: -102772121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_136
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 118
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08761a65b4de243866f826ac4a624a
+      internalID: 1657519054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_137
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 150
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad10aca9d0f6f4f913f609588e3fac
+      internalID: -458497062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_138
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 118
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc12a6bd414fe4aac1ab722de63c01
+      internalID: -65513475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_139
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 118
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6408e7b864ce854c874904ff555ad42
+      internalID: 713103031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c619ac9c62174885aaaebb7f45e8a
+      internalID: -1391836566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_141
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 118
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005b156ae058ca4b9dcb29690534bb5
+      internalID: 1988923942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_142
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 102
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e62d47df093054cb611ef33f007ffa
+      internalID: -814757958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 118
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e4be79a994a04cac7ea03d9aed872
+      internalID: 2116469803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 118
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8662b752c568f1479d530a99572a480
+      internalID: 439400001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_145
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 118
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae246577bb9235142bba1a950d4c904b
+      internalID: -494356709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6acf83c5b77b418f7e656dfaa1a0f
+      internalID: -1758260424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_147
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdee2f04993ec64d9f5e332c143682f
+      internalID: 469615210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 123
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae0b818119e8d4f914fa83c72147bf
+      internalID: -22768593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_149
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 118
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dba090603086e4eae13d7a636ee96a
+      internalID: 797420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_150
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 118
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3e2dfcfcd16543822487bbd1aa71c
+      internalID: -1310760711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_151
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 118
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06626b08ad25e744bfe08eac063326a
+      internalID: -2048170775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_152
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 118
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee86e9d245e9e40b78f053042312d4
+      internalID: 1331452213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_153
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a76db3e4b09ec4e939588554f7be21
+      internalID: -1853644342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_154
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be7bbf65d4b6b4888f2de10cd9a14f
+      internalID: 852744073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_0: -1974990059
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_1: 847794871
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_10: -1892826869
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_100: -1222392709
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_101: 1992112161
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_102: 461758784
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_103: 551280683
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_104: -1342711917
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_105: 1226048335
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_106: -1634881538
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_107: -1281751270
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_108: -1523114161
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_109: -292416052
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_11: 307136186
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_110: 1708155582
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_111: 1430792602
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_112: -1953688136
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_113: 269750994
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_114: -1171398568
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_115: 2112475713
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_116: 1512833564
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_117: -638202012
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_118: 1591314331
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_119: -203839210
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_12: 1988577117
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_120: 19993
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_121: 1781423232
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_122: -364152485
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_123: 1311613726
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_124: -34974400
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_125: 1047976772
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_126: 1558761965
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_127: -1401046632
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_128: -21024836
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_129: -1092394247
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_13: -1641578670
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_130: 1453408137
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_131: 1700436512
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_132: -2100793965
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_133: -964458974
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_134: 833141211
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_135: -102772121
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_136: 1657519054
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_137: -458497062
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_138: -65513475
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_139: 713103031
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_14: -607602280
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_140: -1391836566
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_141: 1988923942
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_142: -814757958
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_143: 2116469803
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_144: 439400001
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_145: -494356709
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_146: -1758260424
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_147: 469615210
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_148: -22768593
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_149: 797420
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_15: -72990932
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_150: -1310760711
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_151: -2048170775
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_152: 1331452213
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_153: -1853644342
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_154: 852744073
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_16: 2104696629
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_17: -780031618
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_18: 1191999651
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_19: -257128674
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_2: -857840670
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_20: -1653009854
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_21: 1782347557
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_22: -1867148595
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_23: 1358846607
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_24: -1606774308
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_25: 213909839
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_26: -563768936
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_27: -358246852
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_28: 812482953
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_29: -5479477
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_3: 485999550
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_30: 860771853
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_31: 1392075247
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_32: 1786320081
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_33: -546552171
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_34: -1207368535
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_35: 1096111823
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_36: -1582032076
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_37: 834398914
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_38: -460999409
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_39: -1541589598
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_4: -2140973185
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_40: 1501450951
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_41: 1238102538
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_42: -1034537592
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_43: -1712585126
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_44: 262145178
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_45: 2114110235
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_46: -386154872
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_47: 270606725
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_48: 262730618
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_49: 752023464
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_5: 273143418
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_50: 1285818844
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_51: -301613556
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_52: -1335648219
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_53: -2033527252
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_54: 417759534
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_55: 444713157
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_56: -1548122009
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_57: -794828023
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_58: 1800617781
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_59: -2134072579
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_6: 870742103
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_60: 1165849878
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_61: -1015409865
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_62: -966580514
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_63: 384775608
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_64: -393181053
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_65: -1550747539
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_66: 724413215
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_67: -2132820606
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_68: 823628252
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_69: -654111923
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_7: -695282405
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_70: 268776062
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_71: 626298731
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_72: -42353102
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_73: 137301430
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_74: 1067868761
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_75: 564595870
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_76: -362540570
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_77: -528395814
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_78: -1015524510
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_79: 1669487353
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_8: 394070946
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_80: -74832000
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_81: -50538596
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_82: -1137638204
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_83: 384792727
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_84: -1014957094
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_85: 1072365692
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_86: -1173215353
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_87: 2001227372
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_88: -2099454869
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_89: -646112676
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_9: -964095915
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_90: -786058763
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_91: 303766141
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_92: -1254236525
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_93: 40074595
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_94: -393926321
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_95: -245702130
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_96: 613339149
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_97: 603345334
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_98: -1663535205
+      1669905276_27-pibig-info-p-meipl-spraiti-krasivo-28_99: -1985514966
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

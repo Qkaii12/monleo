@@ -1,0 +1,1487 @@
+fileFormatVersion: 2
+guid: e2ec70278e561874798335d26c2137d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 729
+        width: 960
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ad6d5e6efba24c9be42f56b875a1d
+      internalID: 1166194764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 961
+        width: 84
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b36adeaec3ec643932a2a1c5ea5bb7
+      internalID: -424537690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_2
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1169
+        width: 249
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c2535b2365cc47a0bcb20b0d9d97c
+      internalID: 1752162501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_3
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1043
+        width: 67
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7bb5c9c3e90c479f7a57606cd5040
+      internalID: -841004732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_4
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 972
+        width: 241
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93adfda09ed7ac544ae31cd6856b4856
+      internalID: 1089157376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_5
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 894
+        width: 75
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce144c519f0c7548b7b0dc77fbbbfc0
+      internalID: 1456585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 961
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c802b23a155a478b7d1546a5cd25b
+      internalID: -1251419586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 767
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b10c606ba2e3547869f7a000c04182
+      internalID: -1270856815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 964
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea93455b2832f47928c056f627e9e8
+      internalID: -931733788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 718
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866b8a139bc1a74d8a496bfae7b09c2
+      internalID: 2077187936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 719
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ffb6b416c41d94f87865b691f88be8
+      internalID: -82471293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_11
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 564
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345bc4135c2e97843b1c9b62bf085174
+      internalID: 1765738510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 700
+        width: 81
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1c1f29ed945b244ab0c88e9b94326a
+      internalID: 302341309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_13
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 560
+        width: 193
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d9838e69078e4b8d135c8c2830139
+      internalID: 1689952680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_14
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 477
+        width: 36
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7ea6b6c575cb429b60a4a3140a2b6
+      internalID: -1064338098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_15
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 565
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e94c0ee45ab3594fb976894d4a54727
+      internalID: -1847070364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 663
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e226e5855e1ba4ab1c12fa48c5b424
+      internalID: -866595941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_17
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 626
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1c5917fbfb624899878ec4998bd9d
+      internalID: 743789647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 403
+        width: 193
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6eff456f8fe8a409008900f2c78ce2
+      internalID: 1003681858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_19
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 467
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1993b2cedf4f9249adb2e1ea4ddabde
+      internalID: 1298141194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_20
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 460
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08adb6304f59a4cb039723a55ca333
+      internalID: 1311433415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_21
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 400
+        width: 134
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d9248f76bdad48a05c138b7e0480f
+      internalID: 770846576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_22
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 385
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e54e1bcf59bc5408a60c15450eae1b
+      internalID: 994438802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 258
+        width: 189
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702135c3533121147b81a63be4e24d0b
+      internalID: -1017826333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_24
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 345
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba4a2d82ce8db4c8c971f94ea5f5c5
+      internalID: 1188365574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_25
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 355
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674d8f8cc5d55543a3f60edb37ac39b
+      internalID: -1441754968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_26
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 360
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c8cc3c08be464baf41f292cafaea4
+      internalID: -87558622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_27
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 370
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ec728c3d9d3a4fa7edc1cfa88e4e4
+      internalID: 131707519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 282
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5494a0998b9bef40a6336a286c5df77
+      internalID: 22597710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 146
+        width: 241
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a941bc22f43e449cfd547ef4e7f0b
+      internalID: -1303330342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 146
+        width: 241
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2e380df8b02649ae580d7fe927e5c
+      internalID: 760239617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 140
+        width: 161
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83cde06f98e804680bd99cb4dc995a
+      internalID: 482083730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_32
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 290
+        width: 134
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556e7f5b5298f44fa8d6818925177d8
+      internalID: 1763331450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_33
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 306
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9d7962b2b83d4cba3ba647aab795e
+      internalID: -757780406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_34
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 239
+        width: 134
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab24d4f44266c4ba07c72389f497f6
+      internalID: -1337016526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_35
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 253
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f285c378d4ea4449257214be6273cc
+      internalID: -1869029259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_36
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 263
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ef188f7b5d214fa1328474c6e45e9
+      internalID: -2034868854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 150
+        width: 185
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546b779d77ff28449ba55ba006acdca
+      internalID: 627658873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_38
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 188
+        width: 134
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91325a68b9d02f04c922731f668a5662
+      internalID: 921430772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_39
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 224
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3746bd75759e418e724107531ce43
+      internalID: -2057259857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_40
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 187
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfbaea51711f94f88e20f015b368d3
+      internalID: 587802931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 275
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053575e65625f784ba4e451c88fdb17d
+      internalID: 903724954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_42
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 137
+        width: 134
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866e25c9aa0a8148934766f1fe477af
+      internalID: 334204158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_43
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 158
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad0de77a821c6429ea5961d22af33f
+      internalID: 2020876479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 40
+        width: 241
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42639502529fb4cbb96d54e6e0f11d
+      internalID: -1576819330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_45
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 241
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc994a96929b96448907f146ac29841a
+      internalID: -1845079905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_46
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 46
+        width: 184
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9739460722fba49bf5733a47602235
+      internalID: -1486984215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 52
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c764175d276be45893ea9fc6054ebb
+      internalID: 833042403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_48
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 86
+        width: 134
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ff3f82987b83449d5b22eb1a2bfe2
+      internalID: -1258666498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 152
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075fb7763594db41a06d6492b09b930
+      internalID: -1963639731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f53cd9a2d8e594493f6a8298df8be2
+      internalID: -271214293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 190
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5da5bf9dd35a024892b9fd873282f9b
+      internalID: 1947450221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 8
+        width: 190
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69845a03c15dcd4cb70d1b0416fd63e
+      internalID: 91983319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_53
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 11
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576b4b3db212c9c409ff0d4b07e4bf5f
+      internalID: -575534230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_54
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 15
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ae57a3efa6704f8a502b75b1db3d1
+      internalID: -2043576179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_55
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3178a519bdcec149948d48d663fd325
+      internalID: -552834450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_56
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f807f614117ec44bfc850ad679a62e
+      internalID: -514617730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_57
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5396ba18eaf22e8498182a59cb6cf4d1
+      internalID: -2124202514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_58
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae060fa2dede02479507749b3f68228
+      internalID: -1685995012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92b4b8e8607a948aca17d0c5aec094
+      internalID: -633115152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 341
+        width: 924
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef89f9217aeaf4b8011e89d65476b7
+      internalID: 1797023946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Geometry Dash - The Shop_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 282
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a7c87609e5c34181410f0d87d5c0a
+      internalID: 2122756565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Geometry Dash - The Shop_0: 1166194764
+      Mobile - Geometry Dash - The Shop_1: -424537690
+      Mobile - Geometry Dash - The Shop_10: -82471293
+      Mobile - Geometry Dash - The Shop_11: 1765738510
+      Mobile - Geometry Dash - The Shop_12: 302341309
+      Mobile - Geometry Dash - The Shop_13: 1689952680
+      Mobile - Geometry Dash - The Shop_14: -1064338098
+      Mobile - Geometry Dash - The Shop_15: -1847070364
+      Mobile - Geometry Dash - The Shop_16: -866595941
+      Mobile - Geometry Dash - The Shop_17: 743789647
+      Mobile - Geometry Dash - The Shop_18: 1003681858
+      Mobile - Geometry Dash - The Shop_19: 1298141194
+      Mobile - Geometry Dash - The Shop_2: 1752162501
+      Mobile - Geometry Dash - The Shop_20: 1311433415
+      Mobile - Geometry Dash - The Shop_21: 770846576
+      Mobile - Geometry Dash - The Shop_22: 994438802
+      Mobile - Geometry Dash - The Shop_23: -1017826333
+      Mobile - Geometry Dash - The Shop_24: 1188365574
+      Mobile - Geometry Dash - The Shop_25: -1441754968
+      Mobile - Geometry Dash - The Shop_26: -87558622
+      Mobile - Geometry Dash - The Shop_27: 131707519
+      Mobile - Geometry Dash - The Shop_28: 22597710
+      Mobile - Geometry Dash - The Shop_29: -1303330342
+      Mobile - Geometry Dash - The Shop_3: -841004732
+      Mobile - Geometry Dash - The Shop_30: 760239617
+      Mobile - Geometry Dash - The Shop_31: 482083730
+      Mobile - Geometry Dash - The Shop_32: 1763331450
+      Mobile - Geometry Dash - The Shop_33: -757780406
+      Mobile - Geometry Dash - The Shop_34: -1337016526
+      Mobile - Geometry Dash - The Shop_35: -1869029259
+      Mobile - Geometry Dash - The Shop_36: -2034868854
+      Mobile - Geometry Dash - The Shop_37: 627658873
+      Mobile - Geometry Dash - The Shop_38: 921430772
+      Mobile - Geometry Dash - The Shop_39: -2057259857
+      Mobile - Geometry Dash - The Shop_4: 1089157376
+      Mobile - Geometry Dash - The Shop_40: 587802931
+      Mobile - Geometry Dash - The Shop_41: 903724954
+      Mobile - Geometry Dash - The Shop_42: 334204158
+      Mobile - Geometry Dash - The Shop_43: 2020876479
+      Mobile - Geometry Dash - The Shop_44: -1576819330
+      Mobile - Geometry Dash - The Shop_45: -1845079905
+      Mobile - Geometry Dash - The Shop_46: -1486984215
+      Mobile - Geometry Dash - The Shop_47: 833042403
+      Mobile - Geometry Dash - The Shop_48: -1258666498
+      Mobile - Geometry Dash - The Shop_49: -1963639731
+      Mobile - Geometry Dash - The Shop_5: 1456585209
+      Mobile - Geometry Dash - The Shop_50: -271214293
+      Mobile - Geometry Dash - The Shop_51: 1947450221
+      Mobile - Geometry Dash - The Shop_52: 91983319
+      Mobile - Geometry Dash - The Shop_53: -575534230
+      Mobile - Geometry Dash - The Shop_54: -2043576179
+      Mobile - Geometry Dash - The Shop_55: -552834450
+      Mobile - Geometry Dash - The Shop_56: -514617730
+      Mobile - Geometry Dash - The Shop_57: -2124202514
+      Mobile - Geometry Dash - The Shop_58: -1685995012
+      Mobile - Geometry Dash - The Shop_59: -633115152
+      Mobile - Geometry Dash - The Shop_6: -1251419586
+      Mobile - Geometry Dash - The Shop_60: 1797023946
+      Mobile - Geometry Dash - The Shop_61: 2122756565
+      Mobile - Geometry Dash - The Shop_7: -1270856815
+      Mobile - Geometry Dash - The Shop_8: -931733788
+      Mobile - Geometry Dash - The Shop_9: 2077187936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
