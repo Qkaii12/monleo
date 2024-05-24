@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 4611702402431851772}
   - component: {fileID: 4611702402431851771}
   - component: {fileID: 4611702402431851773}
-  - component: {fileID: 7089556811925674377}
   - component: {fileID: 4611702402431851774}
+  - component: {fileID: -892095585421895238}
   - component: {fileID: 8425415743260741518}
   - component: {fileID: 3372502376035844916}
   m_Layer: 0
@@ -175,26 +175,6 @@ MonoBehaviour:
   animator: {fileID: 4611702402431851768}
   jumpForce: 10
   ground: 1
---- !u!114 &7089556811925674377
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 629008125707529712}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78eddcd6e11e4e949b6fbe110119ab88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneHome: 
-  sceneSpawn: 
-  Continue: 
-  dieBar: {fileID: 0}
-  animator: {fileID: 0}
-  home: 0
-  spawn: 0
-  ConTinue: 0
 --- !u!114 &4611702402431851774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -213,6 +193,19 @@ MonoBehaviour:
   stopGroundLeft: 0
   stopGroundRight: 0
   speed: 5
+--- !u!114 &-892095585421895238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629008125707529712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4871ffecb42e1424eb7d24a989c572c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinsText: {fileID: 0}
 --- !u!114 &8425415743260741518
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -238,3 +231,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde93e4e015c0fe44bcb1eac8a816786, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  UImenu: {fileID: 0}

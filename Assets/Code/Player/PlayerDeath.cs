@@ -64,6 +64,7 @@ public class PlayerDeath : MonoBehaviour
     {
         // Xử lý cái chết của nhân vật, ví dụ tải lại cảnh hiện tại
         //Time.timeScale = 0f;
+        AudioManager.instance.Play("GameOver");
         animator.SetTrigger(isDieParaname);
         rb.velocity = new Vector2(0, 8f);
         GetComponent<Collider2D>().enabled = false;
