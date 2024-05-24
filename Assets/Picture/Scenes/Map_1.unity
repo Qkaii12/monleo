@@ -186,7 +186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15034948}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.14919686, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17768764, y: -0.13, z: -10}
   m_LocalScale: {x: 0.99116, y: 1.0035496, z: 0.99116}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2102,23 +2102,23 @@ MonoBehaviour:
   sounds:
   - name: GameOver
     clip: {fileID: 8300000, guid: 7f8d62c6276ac89489677a8006298caf, type: 3}
-    mixer: {fileID: 0}
+    mixer: {fileID: 24300002, guid: 2829cd99e984e634db9235f8095e3d96, type: 2}
     volume: 1
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Coins
     clip: {fileID: 8300000, guid: 70fb9e56a699312438d4c26fd9bc8e53, type: 3}
-    mixer: {fileID: 0}
+    mixer: {fileID: 24300002, guid: 2829cd99e984e634db9235f8095e3d96, type: 2}
     volume: 0.5
     pitch: 1
     loop: 0
     source: {fileID: 0}
-  - name: 
-    clip: {fileID: 0}
-    mixer: {fileID: 0}
-    volume: 0
-    pitch: 0
+  - name: Jump
+    clip: {fileID: 8300000, guid: 5fca845fc202f5d4d8e3a69cfd8ef944, type: 3}
+    mixer: {fileID: 24300002, guid: 2829cd99e984e634db9235f8095e3d96, type: 2}
+    volume: 0.5
+    pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: 
@@ -2835,7 +2835,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.14919686, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17768764, y: -0.13, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3028,11 +3028,59 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+        - m_Target: {fileID: 2115423971084727203, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
+          m_MethodName: PointerDownJump
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 5964863836246325236, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
+          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
+          m_MethodName: PointerDownJump
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
   - eventID: 3
     callback:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 901032549}
+          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
+          m_MethodName: PointerUpJump
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2115423971084727203, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
+          m_MethodName: PointerUpJump
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 5964863836246325236, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
           m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
           m_MethodName: PointerUpJump
           m_Mode: 1
@@ -4060,7 +4108,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!1 &707103814 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 8964236215491060923, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &725916428
@@ -4179,6 +4227,30 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 901032558}
+        m_TargetAssemblyTypeName: PlayerManager, Assembly-CSharp
+        m_MethodName: PauseGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2115423971084726367, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+        m_TargetAssemblyTypeName: PlayerManager, Assembly-CSharp
+        m_MethodName: PauseGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 6470175652742964659, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
         m_TargetAssemblyTypeName: PlayerManager, Assembly-CSharp
         m_MethodName: PauseGame
         m_Mode: 1
@@ -4780,7 +4852,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 793402997}
   m_LocalRotation: {x: -0.003033554, y: -0.99996245, z: -0.005196679, w: -0.0062396764}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0466}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4789,8 +4861,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -179.407, y: -0.71698, z: -179.649}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -397, y: 177}
-  m_SizeDelta: {x: 96.5596, y: 78.3472}
+  m_AnchoredPosition: {x: -383.92694, y: 164.20837}
+  m_SizeDelta: {x: 97.688, y: 89.8611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &793402999
 MonoBehaviour:
@@ -5081,7 +5153,31 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 901032550}
+        - m_Target: {fileID: 4611702402431851774, guid: a09f85571311f564d904775da531f737, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerUpRight
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2115423971084727202, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerDownRight
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 4318552590852809808, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
           m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
           m_MethodName: PointerDownRight
           m_Mode: 1
@@ -5098,6 +5194,30 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 901032550}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerUpRight
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2115423971084727202, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerUpRight
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 4318552590852809808, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
           m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
           m_MethodName: PointerUpRight
           m_Mode: 1
@@ -5298,12 +5418,12 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!4 &901032546 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &901032549 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4611702402431851773, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4611702402431851773, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 707103814}
@@ -5314,7 +5434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &901032550 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4611702402431851774, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 4611702402431851774, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 707103814}
@@ -5323,32 +5443,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1aafd457d01e3ed43a4709734c0cec31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!95 &901032551 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 4611702402431851768, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-  m_PrefabInstance: {fileID: 4611702401704965784}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &901032555
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 707103814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5e1565cce3f8cd847ba95dc2854b669c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animator: {fileID: 901032551}
---- !u!50 &901032557 stripped
-Rigidbody2D:
-  m_CorrespondingSourceObject: {fileID: 4611702402431851771, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-  m_PrefabInstance: {fileID: 4611702401704965784}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &901032558 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3372502376035844916, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_CorrespondingSourceObject: {fileID: 3372502376035844916, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 707103814}
@@ -7064,11 +7161,59 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+        - m_Target: {fileID: 2115423971084727202, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerDownLeft
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 4318552590852809808, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerDownLeft
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
   - eventID: 3
     callback:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 901032550}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerUpLeft
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 2115423971084727202, guid: d0caeacf13505634cbc3c6bfdcee4e7e, type: 3}
+          m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
+          m_MethodName: PointerUpLeft
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 4318552590852809808, guid: bcd852f08b2eeb742bcb416d9cefb181, type: 3}
           m_TargetAssemblyTypeName: MoveByButton, Assembly-CSharp
           m_MethodName: PointerUpLeft
           m_Mode: 1
@@ -11212,8 +11357,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1916361292}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 37.779655, y: -0.1896953, z: -9.951183}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 37.779655, y: -0.18969536, z: -9.951183}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11262,7 +11407,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -336, y: 170}
+  m_AnchoredPosition: {x: -322, y: 156}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1929925769
@@ -12140,88 +12285,80 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -892095585421895238, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+    - target: {fileID: -892095585421895238, guid: a09f85571311f564d904775da531f737, type: 3}
       propertyPath: coinsText
       value: 
       objectReference: {fileID: 1929925769}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -5.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.92
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114168646090179552, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_Name
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 629008125707529712, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3372502376035844916, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+    - target: {fileID: 3372502376035844916, guid: a09f85571311f564d904775da531f737, type: 3}
       propertyPath: UImenu
       value: 
       objectReference: {fileID: 669398948}
-    - target: {fileID: 4611702402431851771, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_Material
-      value: 
+    - target: {fileID: 4611702402431851768, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4611702402431851772, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+    - target: {fileID: 4611702402431851772, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_Size.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4611702402431851772, guid: a09f85571311f564d904775da531f737, type: 3}
       propertyPath: m_Size.y
-      value: 0.30109608
+      value: 0.3
       objectReference: {fileID: 0}
-    - target: {fileID: 4611702402431851772, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: fa1f9733c023d2542b3140beb4130d23, type: 2}
-    - target: {fileID: 4611702402431851772, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: m_Offset.y
-      value: -0.004743956
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8425415743260741518, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
-      propertyPath: rb
-      value: 
-      objectReference: {fileID: 901032557}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8964236215491060923, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8964236215491060923, guid: a09f85571311f564d904775da531f737, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 294f8edb9dbcae848a20d2ec06f150d9, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: a09f85571311f564d904775da531f737, type: 3}
 --- !u!1001 &8360588155858169969
 PrefabInstance:
   m_ObjectHideFlags: 0

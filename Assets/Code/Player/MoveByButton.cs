@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class MoveByButton : MonoBehaviour
 {
     private Rigidbody2D rb;

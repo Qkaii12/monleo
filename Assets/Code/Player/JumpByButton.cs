@@ -37,6 +37,7 @@ public class JumpByButton : MonoBehaviour
 
     private void Jump()
     {
+        AudioManager.instance.Play("Jump");
         animator.SetBool(IsJumpingParaName, true);
         if (ground)
         {
