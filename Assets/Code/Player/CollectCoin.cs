@@ -7,6 +7,7 @@ public class CollectCoin : MonoBehaviour
 {
     public static int numberOfCoins;
     public TextMeshProUGUI coinsText;
+    public GameObject playerPrefabs;
 
     private void Awake()
     {
