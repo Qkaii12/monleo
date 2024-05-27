@@ -41,7 +41,7 @@ public class MoveByButton : MonoBehaviour
     private void Update()
     {
         direction = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(direction * moveSpeed, rb.velocity.y);
+        rb.velocity = new Vector2(direction * moveSpeed * Time.deltaTime, rb.velocity.y);
 
         if(Input.GetButtonDown("Jump") && IsGrounded())
         {

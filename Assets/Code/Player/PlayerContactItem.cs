@@ -6,7 +6,7 @@ public class PlayerContactItem : MonoBehaviour
 {
     [SerializeField] private Rigidbody2D rb;
     private int score = 0;
-    private bool hasFirePower = false;
+    //private bool hasFirePower = false;
 
     private void Start()
     {
@@ -21,10 +21,10 @@ public class PlayerContactItem : MonoBehaviour
     {
         transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
     }
-    public void EnableFirePower()
-    {
-        hasFirePower = true;
-        Debug.Log("Fire power enabled");
-    }
+    //public void EnableFirePower()
+    //{
+    //    hasFirePower = true;
+    //    Debug.Log("Fire power enabled");
+    //}
 }
 

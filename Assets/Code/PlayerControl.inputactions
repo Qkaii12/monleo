@@ -26,17 +26,6 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "f8ff54cc-41db-4b17-9660-1915467fbe16",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "Button",
                     "id": "28e96a46-90b7-45d5-86c2-b23380cbffc6",
                     "path": "1DAxis",
