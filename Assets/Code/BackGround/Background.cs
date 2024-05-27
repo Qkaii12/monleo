@@ -8,7 +8,7 @@ public class Background : MonoBehaviour
     [SerializeField] private RawImage backGround;
     [SerializeField] private float _x, _y;
     [SerializeField] private float speed;
-    [SerializeField] private MoveByButton moveComponent;
+    [SerializeField] private PlayerMovement moveComponent;
 
     private void BackGround()
     {

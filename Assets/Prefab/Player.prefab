@@ -14,10 +14,10 @@ GameObject:
   - component: {fileID: 4611702402431851772}
   - component: {fileID: 4611702402431851771}
   - component: {fileID: 4611702402431851773}
-  - component: {fileID: -892095585421895238}
   - component: {fileID: 8425415743260741518}
   - component: {fileID: 1633453680122317467}
   - component: {fileID: 7218230962687209542}
+  - component: {fileID: 8185190093145406698}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8964236215491060923}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: af95ea30b0ff7ad43a06a2bf2082c433, type: 3}
   m_Name: 
@@ -175,19 +175,6 @@ MonoBehaviour:
   animator: {fileID: 4611702402431851768}
   jumpForce: 15
   ground: 1
---- !u!114 &-892095585421895238
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8964236215491060923}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4871ffecb42e1424eb7d24a989c572c3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  coinsText: {fileID: 0}
 --- !u!114 &8425415743260741518
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -221,7 +208,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8964236215491060923}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c19b613a9240cd847bea56b2854a7496, type: 3}
   m_Name: 
@@ -231,3 +218,20 @@ MonoBehaviour:
   moveRight: 0
   stopGroundLeft: 0
   stopGroundRight: 0
+--- !u!114 &8185190093145406698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8964236215491060923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aafd457d01e3ed43a4709734c0cec31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 256
+  moveSpeed: 7
+  jumpSpeed: 10

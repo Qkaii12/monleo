@@ -186,7 +186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 15034948}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2186327, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17019916, y: -0.13, z: -10}
   m_LocalScale: {x: 0.99116, y: 1.0035496, z: 0.99116}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -754,7 +754,7 @@ GameObject:
   - component: {fileID: 128682686}
   - component: {fileID: 128682685}
   - component: {fileID: 128682687}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -1753,7 +1753,7 @@ GameObject:
   - component: {fileID: 311318155}
   - component: {fileID: 311318157}
   - component: {fileID: 311318156}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san (5)
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -1864,7 +1864,7 @@ GameObject:
   - component: {fileID: 314544200}
   - component: {fileID: 314544202}
   - component: {fileID: 314544201}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san (2)
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -2767,7 +2767,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2186327, y: -0.13, z: -10}
+  m_LocalPosition: {x: 0.17019916, y: -0.13, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2821,6 +2821,7 @@ GameObject:
   - component: {fileID: 529542781}
   - component: {fileID: 529542780}
   - component: {fileID: 529542783}
+  - component: {fileID: 529542784}
   m_Layer: 5
   m_Name: UpButton
   m_TagString: Untagged
@@ -2946,83 +2947,24 @@ MonoBehaviour:
   - eventID: 2
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032549}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerDownJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerDownJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerDownJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
   - eventID: 3
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032549}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerUpJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerUpJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: JumpByButton, Assembly-CSharp
-          m_MethodName: PointerUpJump
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
+--- !u!114 &529542784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 529542778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d54531977ecb194c95e2d3aa7a5d72a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ControlPath: <Keyboard>/space
 --- !u!1 &534028047
 GameObject:
   m_ObjectHideFlags: 0
@@ -4933,6 +4875,7 @@ GameObject:
   - component: {fileID: 877780038}
   - component: {fileID: 877780037}
   - component: {fileID: 877780040}
+  - component: {fileID: 877780041}
   m_Layer: 5
   m_Name: RightButton
   m_TagString: Untagged
@@ -5058,83 +5001,24 @@ MonoBehaviour:
   - eventID: 2
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032566}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
   - eventID: 3
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032566}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpRight
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
+--- !u!114 &877780041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877780035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d54531977ecb194c95e2d3aa7a5d72a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ControlPath: <Keyboard>/rightArrow
 --- !u!1 &886444201
 GameObject:
   m_ObjectHideFlags: 0
@@ -5327,33 +5211,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4974795699462903068, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &901032549 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4611702402431851773, guid: a09f85571311f564d904775da531f737, type: 3}
-  m_PrefabInstance: {fileID: 4611702401704965784}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 707103814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af95ea30b0ff7ad43a06a2bf2082c433, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &901032559 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 4611702402431851768, guid: a09f85571311f564d904775da531f737, type: 3}
   m_PrefabInstance: {fileID: 4611702401704965784}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &901032566 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7218230962687209542, guid: a09f85571311f564d904775da531f737, type: 3}
-  m_PrefabInstance: {fileID: 4611702401704965784}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 707103814}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c19b613a9240cd847bea56b2854a7496, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &916268206
 GameObject:
   m_ObjectHideFlags: 0
@@ -5489,8 +5351,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 918854729}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.2037414, y: -0.34312582, z: 0.056888424}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.6, y: -0.9200001, z: 0.056888424}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5510,10 +5372,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UImenu: {fileID: 669398948}
+  player: {fileID: 918854729}
   playerPrefabs:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8964236215491060923, guid: a09f85571311f564d904775da531f737, type: 3}
+  - {fileID: 7394324504732706141, guid: d16fd8e863c518542bfb887949ef101c, type: 3}
+  - {fileID: 8246000848007751171, guid: edebbb84654f49c4fa4469bd9bb27124, type: 3}
+  coinsText: {fileID: 1929925769}
 --- !u!4 &950135924 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7025211203413167850, guid: c552be4a79f416745ab085f9a6c02a7b, type: 3}
@@ -6891,6 +6755,7 @@ GameObject:
   - component: {fileID: 1161514615}
   - component: {fileID: 1161514614}
   - component: {fileID: 1161514617}
+  - component: {fileID: 1161514618}
   m_Layer: 5
   m_Name: LeftButton
   m_TagString: ground
@@ -7016,83 +6881,24 @@ MonoBehaviour:
   - eventID: 2
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032566}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerDownLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
   - eventID: 3
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 901032566}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-          m_MethodName: PointerUpLeft
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
+--- !u!114 &1161514618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161514612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d54531977ecb194c95e2d3aa7a5d72a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ControlPath: <Keyboard>/leftArrow
 --- !u!1 &1167439438
 GameObject:
   m_ObjectHideFlags: 0
@@ -7467,7 +7273,7 @@ GameObject:
   - component: {fileID: 1208208441}
   - component: {fileID: 1208208443}
   - component: {fileID: 1208208442}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san (4)
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -8617,7 +8423,7 @@ GameObject:
   - component: {fileID: 1480411794}
   - component: {fileID: 1480411796}
   - component: {fileID: 1480411795}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san (3)
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -9348,7 +9154,7 @@ GameObject:
   - component: {fileID: 1558862440}
   - component: {fileID: 1558862442}
   - component: {fileID: 1558862441}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san_trap
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -11621,7 +11427,7 @@ GameObject:
   - component: {fileID: 2039844688}
   - component: {fileID: 2039844690}
   - component: {fileID: 2039844689}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: san (1)
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -12086,10 +11892,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -892095585421895238, guid: a09f85571311f564d904775da531f737, type: 3}
-      propertyPath: coinsText
-      value: 
-      objectReference: {fileID: 1929925769}
     - target: {fileID: 4611702402431851771, guid: a09f85571311f564d904775da531f737, type: 3}
       propertyPath: m_GravityScale
       value: 2
@@ -12152,7 +11954,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8964236215491060923, guid: a09f85571311f564d904775da531f737, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 0}

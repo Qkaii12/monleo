@@ -12,9 +12,9 @@ public class Coin : MonoBehaviour
             PlayerContactItem player = collider2D.GetComponent<PlayerContactItem>();
             if(player != null)
             {
-                CollectCoin.numberOfCoins++;
+                PlayerManager.numberOfCoins++;
                 AudioManager.instance.Play("Coins");
-                PlayerPrefs.GetInt("NumberOfCoins", CollectCoin.numberOfCoins);
+                PlayerPrefs.GetInt("NumberOfCoins", PlayerManager.numberOfCoins);
                 player.AddScore(value);
             }
 

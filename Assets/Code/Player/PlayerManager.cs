@@ -2,17 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PlayerManager : MonoBehaviour
 {
     public GameObject UImenu;
+    public GameObject player;
     public GameObject[] playerPrefabs;
     public static Vector2 lastCheckPointPos = new Vector2(-3, 0);
     int charecterIndex;
+    public static int numberOfCoins;
+    public TextMeshProUGUI coinsText;
     private void Awake()
     {
         charecterIndex = PlayerPrefs.GetInt("SelectedCharacter", 0);
-        GameObject player = Instantiate(playerPrefabs[charecterIndex], lastCheckPointPos, Quaternion.identity);
+        numberOfCoins = PlayerPrefs.GetInt("NumberOfCoins", 0);
+        player = Instantiate(playerPrefabs[charecterIndex], lastCheckPointPos, Quaternion.identity);
     }
     public void PauseGame()
     {
@@ -26,6 +31,10 @@ public class PlayerManager : MonoBehaviour
     }
     public void GoToMainMenu()
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("MenuMaps");
+    }
+    private void Update()
+    {
+        coinsText.text = "Coins: " + numberOfCoins;
     }
 }

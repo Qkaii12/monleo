@@ -15,5 +15,9 @@ public class PlayerEventHandler : MonoBehaviour
     {
         Debug.Log("Pointer entered: " + characterName);
     }
-    
+    public void OnPointerExit(BaseEventData eventData)
+    {
+        Debug.Log("Pointer exited: " + characterName);  
+    }
+
 }
